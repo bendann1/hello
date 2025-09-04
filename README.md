@@ -1,1 +1,1 @@
-learn how to write go code from: https://go.dev/doc/code
+learn how to write Go code from: https://go.dev/doc/code
